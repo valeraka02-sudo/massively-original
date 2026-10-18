@@ -4687,3 +4687,19 @@ input, select, textarea {
 		}
 
 	}
+/* Власні стилі LUMEA Hair Care */
+
+/* 1. Розмір тексту */
+#intro p {
+    font-size: 18px;
+}
+
+/* 2. Колір тексту */
+#intro p {
+    color: #f2eee8;
+}
+
+/* 3. Зміна кольору кнопки при наведенні */
+.button:hover {
+    background-color: #4f6b60;
+}
